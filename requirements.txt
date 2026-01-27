@@ -1,3 +1,13 @@
+# requirements.txt
+
 kagglehub
 pandas
+numpy
 matplotlib
+scikit-learn
+lightgbm
+xgboost
+catboost
+tqdm
+seaborn
+emoji
